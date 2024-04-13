@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F8E81E-9430-48A5-B285-CD4FC94C7D4C}|MiniConsoleApp\\MiniConsoleApp.csproj|c:\\users\\asus\\desktop\\c# mini console app\\miniconsoleapp\\miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F8E81E-9430-48A5-B285-CD4FC94C7D4C}|MiniConsoleApp\\MiniConsoleApp.csproj|solutionrelative:miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|solutionrelative:core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|solutionrelative:core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|solutionrelative:core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\core\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|solutionrelative:core\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\core\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD1841-4CA8-4919-B5B0-ED82356593C5}|Core\\Core.csproj|solutionrelative:core\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MiniConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
+              "RelativeToolTip": "MiniConsoleApp\\Program.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAgwM8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:54:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Exceptions\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\StudentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Exceptions\\StudentNotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\StudentNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:48:22.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Classroom.cs",
+              "RelativeDocumentMoniker": "Core\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Classroom.cs",
+              "RelativeToolTip": "Core\\Classroom.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:07:54.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Helper.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Helper.cs",
+              "RelativeToolTip": "Core\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:28:21.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\ClassType.cs",
+              "RelativeDocumentMoniker": "Core\\ClassType.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\ClassType.cs",
+              "RelativeToolTip": "Core\\ClassType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:13:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\C# Mini Console App\\MiniConsoleApp\\Core\\Student.cs",
+              "RelativeToolTip": "Core\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:10:33.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
